@@ -14,7 +14,7 @@
   "author": "Pierre-Gilles Leymarie",
   "license": "CC-BY-NC-SA-3.0",
   "dependencies": {
-    "node-xiaomi-smart-home": "^1.1.0",
+    "node-xiaomi-smart-home": "^1.4.1",
     "request": "^2.83.0",
     "request-promise": "^4.2.2"
   }
